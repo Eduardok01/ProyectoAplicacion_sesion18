@@ -20,6 +20,8 @@
 </template>
 
 <script setup>
+  
+
   const api1 = "https://countriesnow.space/api/v0.1/countries/population"
   const api2 = "https://api.jikan.moe/v4/recommendations/anime"
   const api3 = "https://api.jikan.moe/v4/random/anime"
